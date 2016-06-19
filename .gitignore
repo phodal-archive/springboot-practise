@@ -1,0 +1,9 @@
+
+.gradle/
+DDD.iml
+DDD.ipr
+DDD.iws
+README.md
+build.gradle
+build/
+src/
